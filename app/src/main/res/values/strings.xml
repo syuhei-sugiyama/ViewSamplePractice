@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ViewSamplePractice</string>
+    <string name="tv_msg">お名前を入力してください。</string>
+    <string name="save">保存</string>
+    <string name="drink">ドリンク</string>
+    <string name="food">フード</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string-array name="sp_currylist">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+        <item>ビーフカレー</item>
+        <item>チキンカレー</item>
+        <item>シーフードカレー</item>
+        <item>キーマカレー</item>
+        <item>グリーンカレー</item>
+    </string-array>
+    <string-array name="lv_test_data">
+        <item>テスト1</item>
+        <item>テスト2</item>
+        <item>テスト3</item>
+        <item>テスト4</item>
+        <item>テスト5</item>
+        <item>テスト6</item>
+        <item>テスト7</item>
+        <item>テスト8</item>
+        <item>テスト9</item>
+        <item>テスト10</item>
+    </string-array>
+</resources>
